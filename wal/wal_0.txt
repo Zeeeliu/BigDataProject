@@ -1,0 +1,3 @@
+20240605235538,create,{"SSN": "123456789", "State": "California", "Occupation": "Engineer"}
+20240605235539,create,{"SSN": "987654321", "State": "New York", "Occupation": "Teacher"}
+20240605235539,delete,{"SSN": "123456789", "State": "California", "Occupation": "Engineer"}
